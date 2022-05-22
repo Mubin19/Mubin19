@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - mubinsalim19@gmail..com / 7666954881
+- 📫 How to reach me - mubinsayyed19@gmail..com / 7666954881
 
 <!---
 Mubin19/Mubin19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
