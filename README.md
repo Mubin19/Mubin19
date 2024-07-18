@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mubin
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently looking for a job opportunities as a Software Engineer 
+- 🌱 I’m currently looking for a job opportunity as a Software Engineer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - mubinsayyed19@gmail..com / 7666954881
 
