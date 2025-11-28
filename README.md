@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mubin Sayyed
-- 👀 I’m interested in Software Development
+- 👋 Hi, I’m Mubin Sayyed.
+- 👀 I’m  a Software Developer with 3+ years of experience.
 - 🌱 I’m currently looking for a job opportunity as a Software Engineer.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me - mubinsayyed19@gmail..com / 7666954881
 
 <!---
